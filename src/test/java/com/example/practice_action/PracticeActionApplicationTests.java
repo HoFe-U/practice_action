@@ -15,8 +15,8 @@ class PracticeActionApplicationTests {
 
     @Test
     void add(){
-        System.out.println("gpgpgpgpgpgpasdf");
-        assertThat(1).isEqualTo(1);
+        Hello hello =  new Hello("hoho");
+        assertThat(hello.getHello()).isEqualTo("hoho");
     }
 
 }

@@ -12,7 +12,7 @@ class PracticeActionApplicationTests {
 
     @Test
     void add(){
-        System.out.println("gpgpgpgpgpgp");
+        System.out.println("gpgpgpgpgpgpasdf");
     }
 
 }

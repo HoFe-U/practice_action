@@ -10,4 +10,9 @@ class PracticeActionApplicationTests {
     void contextLoads() {
     }
 
+    @Test
+    void add(){
+        System.out.println("gpgpgpgpgpgp");
+    }
+
 }

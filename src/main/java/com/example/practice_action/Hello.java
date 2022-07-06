@@ -2,7 +2,7 @@ package com.example.practice_action;
 
 public class Hello {
     private String hello;
-    private String aaaafgaaaaaa;
+    private String aaaafgaaaaaaa;
 
     public Hello(String hello) {
         this.hello = hello;
